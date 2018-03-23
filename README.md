@@ -2,4 +2,6 @@
  exercice-repo
 
 
-We resolved the conflict!
+This project wiil cantain
+
+Hello, again
