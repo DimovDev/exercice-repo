@@ -2,4 +2,8 @@
  exercice-repo
 
 
-We resolved the conflict!
+This project wiil cantain
+
+Edited again in master branch
+
+new edit
