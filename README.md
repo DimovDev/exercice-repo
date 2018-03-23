@@ -10,4 +10,6 @@ Make conflict
 Make  new  conflict
 >>>>>>> 2c2f57f810441f5dadc083d31bb90efd0ce2f20b
 
+resolve
+
 
