@@ -1,3 +1,3 @@
-# exercice-repo
+ exercice-repo
 
 We resolved the conflict!
